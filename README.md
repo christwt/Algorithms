@@ -1,4 +1,5 @@
 #Algorithms
+#CSCI 3104
 
 Learn a set of ‘‘standard’’ or canonical algorithms for computational problem solving. This involves
 Understanding properties of algorithms.
